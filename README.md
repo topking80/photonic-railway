@@ -34,6 +34,6 @@ These figures are calculated estimates, not tested values. Proposed values are k
 
 ## Files
 
-- [Photonic_Railway_Technical_Plan_Rev2.23_share.pdf](Photonic_Railway_Technical_Plan_Rev2.23_share.pdf): share copy of the Rev 2.23 technical plan
-- [Photonic_Railway_Rev2.23_Appendices.pdf](Photonic_Railway_Rev2.23_Appendices.pdf): Rev 2.23 appendices
 - [LICENSE](LICENSE): CC BY 4.0 legal text
+
+The Rev 2.23 share copy of the technical plan and the Rev 2.23 appendices are intended to be published in this repository as PDFs. They are not in the repository yet.
